@@ -9,7 +9,7 @@ function usage() {
 		-i, --image:		Move image
 		-m, --music:		Move sound and music
 		-t, --text:     	Move text file
-		-a, --all:		    Move all list in /куча
+		-a, --all:		Move all list in /куча
 
 USAGE
 	exit 1
